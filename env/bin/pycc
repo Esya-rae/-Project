@@ -1,0 +1,3 @@
+#!/home/alesya/VSC Projects/FatApi/env/bin/python
+from numba.pycc import main
+main()
